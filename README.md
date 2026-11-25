@@ -122,3 +122,13 @@ Your repository may contain additional files as the project develops.
 This project is an educational machine-learning prototype. Its anomaly
 detection identifies unusual patterns in recorded consumption; it does
 not independently verify the presence of a physical water leak.
+
+## Trained Machine Learning Model
+
+**Model:** Random Forest Regressor
+
+**File:** `random_forest_water_demand_model.pkl`
+
+**Size:** 317 MB
+
+[Download Trained Model](https://drive.google.com/file/d/13reZiHY0h7xtTB1jjeZutlJJtnBpGG6W/view?usp=sharing)
